@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "example app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
